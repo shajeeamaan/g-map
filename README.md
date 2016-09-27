@@ -1,2 +1,4 @@
-Task 1 ---  List all near by places and display your currnt 
-	    location on a map
+#Task 1 ---
+ Show your location  status -- done
+ #Task 2 ---
+ Display nearby places status -- pending
